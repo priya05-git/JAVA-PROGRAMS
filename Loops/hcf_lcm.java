@@ -19,9 +19,7 @@ class hcf_lcm {
         }
 
         lcm = (a * b) / hcf;
-
         System.out.println("HCF = " + hcf);
         System.out.println("LCM = " + lcm);
-
     }
 }
