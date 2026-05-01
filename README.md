@@ -12,27 +12,31 @@ This repository is organized into specific directories, each focusing on a funda
 
 ### 1. `Basics`
 Contains beginner-friendly introductory programs to understand the fundamentals of Java syntax, data types, and simple class design.
-- Programs include calculating the area of simple shapes, swapping variables, simple summation, and intro to class structures (e.g., `Student.class`, `area.java`, `swap.java`).
+- Programs include calculating the area of simple shapes (`area.java`), swapping variables (`swap.java`), simple summation (`sum.java`), and intro to class structures (`Student.class`, `intro.java`).
 
 ### 2. `Array`
 Contains programs demonstrating arrays in Java.
-- Includes concepts like reversing an array (`ReverseArray.java`) or finding specific elements like odd numbers (`OddArray.java`).
+- Includes concepts like reversing an array (`ReverseArray.java`), finding odd numbers (`OddArray.java`), and basic array manipulation.
 
 ### 3. `Loops`
 Focuses on iterative/looping constructs in Java (`for`, `while`, `do-while`).
-- Great logic-building examples like finding the HCF/LCM of numbers, checking for Palindromes, counting occurrences, and more.
+- Great logic-building examples like finding the HCF/LCM of numbers (`hcf_lcm.java`), checking for Palindromes (`Palindrome.java`), counting occurrences (`Count.java`), and a simple Calculator (`Calculator.java`).
 
 ### 4. `Inheritance`
 Demonstrates basic Object-Oriented Programming (OOP) concepts related to Inheritance.
-- Includes class relationship examples showing how child classes inherit properties and methods from parent classes.
+- Includes class relationship examples showing how child classes inherit properties and methods from parent classes (`inheritance.java`).
 
 ### 5. `Polymorphism(Method Overloading)`
 Shows polymorphism principles, specifically **method overloading**. Note that there are also several good logic programs integrated here showing overloaded use cases.
-- Examples include prime checking, range-based primes, overloaded sum of 2 numbers, and more dynamic logic structures.
+- Examples include prime checking (`Prime.java`, `primerange.java`), overloaded sum of 2 numbers (`sumof2nos.java`), and more dynamic logic structures.
 
-### 6. `String`
+### 6. `Interface`
+Demonstrates the use of Interfaces in Java for achieving abstraction and multiple inheritance.
+- Features a comprehensive `BankingSystem.java` and `interface1.java` demonstrating how classes implement interfaces to define specific behaviors.
+
+### 7. `String`
 Focuses on String classes and their manipulation.
-- Includes string-driven logical classes like `Bank.java` and other practical string operations.
+- Includes string-driven logical classes like `Bank.java` and other practical string operations (`prg15.java`, `prg16.java`).
 
 ---
 
