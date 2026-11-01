@@ -1,4 +1,4 @@
-# Java Programs Collection
+# *Java Programs Collection*
 
 Welcome to the **Java Programs** repository! This project serves as a comprehensive collection of fundamental and intermediate Java concepts. It contains neatly categorized examples ranging from basic syntax up to object-oriented programming (OOP) principles. 
 
